@@ -1,21 +1,23 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/luizbergo) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="banner_github_luiz_bergo.png" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# Luiz Bergo
+<sub>*Engenheiro Master* na Vale</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Como engenheiro de automação atuando no mercado de mineração e logística desenvolvi habilidades de trabalho em equipe, análise de cenários, resolução de problemas e gestão de projetos. Tenho atuado os últimos anos desenvolvendo soluções de de fim-a-fim (hardware to cloud) para endereçar os principais desafios da área de tecnologia da Vale.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+Minhas credenciais incluem Graduação em Engenheria de Controle e Automação, Especialização em Engenharia Ferroviária e Mestrado em Engenharia Elétrica com ênfase em Inteligência artificial, todos pelo PUC-MG, completam meus estudos um MBA em Gestão de Projetos pelo IBMEC e vários cursos on-line nas áreas de tecnologia e gestão de projetos.
+
+
+**Background:** Python, Data Science, Automation, Project Management.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
+
+* [LinkedIn](https://www.linkedin.com/in/luizbergo)
 * [Medium](https://www.medium.com)
 
 
