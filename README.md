@@ -27,9 +27,11 @@ Minhas credenciais incluem Graduação em Engenheria de Controle e Automação, 
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Identificação de atividade física analisando dados de dispositivo Nike Jaw Bone:** https://bit.ly/3tNUwvu
-* **Uma Interface Gráfica criada em R: https://bit.ly/2NazypH 
-* **Capstone Project - DataScience Coursera:** 
-    &nbsp; Pitch: https://bit.ly/3rFWlIX
+* **Uma Interface Gráfica criada em R:** https://bit.ly/2NazypH 
+* **Capstone Project - DataScience Coursera:**
+
+
+    &nbsp; Pitch: https://bit.ly/3rFWlIX  
     &nbsp; IDE: https://bit.ly/3aMq388
 
 
