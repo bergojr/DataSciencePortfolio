@@ -25,7 +25,7 @@ Minhas credenciais incluem Graduação em Engenheria de Controle e Automação, 
 
 ## Projetos:
 
-* **Análise de dados do AirBNB para o Rio de Janeiro:** https://bit.ly/3d5PcxG
+* **Análise de dados do AirBNB para o Rio de Janeiro:** https://bit.ly/3qw5vre
 * **Identificação de atividade física analisando dados de dispositivo Nike Jaw Bone:** https://bit.ly/3tNUwvu
 * **Uma Interface Gráfica criada em R:** https://bit.ly/2NazypH 
 * **Capstone Project - DataScience Coursera:**  
